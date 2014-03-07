@@ -46,6 +46,7 @@ namespace DetroitFocus
                     }
                 }
             }
+            //obd.GetPidData()
         }
 
         private void _obd_ObdChanged(object sender, ObdChangedEventArgs e)
